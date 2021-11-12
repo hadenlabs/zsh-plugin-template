@@ -1,9 +1,9 @@
 <!-- Space: ZshPluginTemplate -->
 <!-- Parent: Project -->
-<!-- Title: Faq -->
+<!-- Title: Functions -->
 
-<!-- Label: Faq -->
+<!-- Label: Functions -->
 <!-- Include: docs/disclaimer.md -->
 <!-- Include: ac:toc -->
 
-# Faq
+## Functions
