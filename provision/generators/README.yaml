@@ -58,7 +58,7 @@ description: |-
   ```bash
     agr 'zsh-plugin-template' 'new-project'
     agr 'plugin-template' 'name_template'
-    agr 'PLUGIN-TEMPLATE' 'NAME_TEMPLATE'
+    agr 'PLUGIN_TEMPLATE' 'NAME_TEMPLATE'
     agr 'ZshPluginTemplate' 'NameTemplate'
   ```
 
