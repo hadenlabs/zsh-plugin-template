@@ -1,4 +1,4 @@
-origin: github.com/hadenlabs/base-template
+origin: github.com/hadenlabs/zsh-plugin-template
 issue_tracker: GITHUB
 auth:
   type: none
