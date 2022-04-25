@@ -9,7 +9,8 @@ coverage
 .mypy_cache/
 .build
 .terraform
-.github/linters/.cache/*
+.ci/linters/.cache/*
+.ci/linters/.cache/*
 .cache/*
 terraform.md
 *.tpl.md
