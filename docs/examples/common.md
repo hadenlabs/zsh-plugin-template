@@ -1,9 +1,9 @@
-<!-- Space: ZshPluginTemplate -->
-<!-- Parent: Project -->
-<!-- Title: Project Examples -->
+<!-- Space: Projects -->
+<!-- Parent: ZshPluginTemplate -->
+<!-- Title: Examples ZshPluginTemplate -->
 
 <!-- Label: Examples -->
-<!-- Include: docs/disclaimer.md -->
+<!-- Include: ./../disclaimer.md -->
 <!-- Include: ac:toc -->
 
 ### common

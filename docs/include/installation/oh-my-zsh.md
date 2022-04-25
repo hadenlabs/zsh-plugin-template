@@ -1,4 +1,4 @@
-<!-- Space: ZshPluginTemplate -->
+<!-- Space: Projects -->
 <!-- Parent: Project -->
 <!-- Title: Project Installation Oh-My-Zsh -->
 

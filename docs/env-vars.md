@@ -1,11 +1,11 @@
-<!-- Space: ZshPluginTemplate -->
-<!-- Parent: Project -->
-<!-- Title: Env Vars -->
+<!-- Space: Projects -->
+<!-- Parent: ZshPluginTemplate -->
+<!-- Title: Env Vars ZshPluginTemplate -->
 
 <!-- Label: ZshPluginTemplate -->
 <!-- Label: Project -->
 <!-- Label: Env Vars -->
-<!-- Include: docs/disclaimer.md -->
+<!-- Include: disclaimer.md -->
 <!-- Include: ac:toc -->
 
 ---

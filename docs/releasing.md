@@ -1,11 +1,11 @@
-<!-- Space: ZshPluginTemplate -->
-<!-- Parent: Project -->
-<!-- Title: Releasing -->
+<!-- Space: Projects -->
+<!-- Parent: ZshPluginTemplate -->
+<!-- Title: Releasing ZshPluginTemplate -->
 
 <!-- Label: ZshPluginTemplate -->
 <!-- Label: Project -->
 <!-- Label: Releasing -->
-<!-- Include: docs/disclaimer.md -->
+<!-- Include: disclaimer.md -->
 <!-- Include: ac:toc -->
 
 # Releasing
