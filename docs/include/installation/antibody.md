@@ -1,4 +1,4 @@
-<!-- Space: ZshPluginTemplate -->
+<!-- Space: Projects -->
 <!-- Parent: Project -->
 <!-- Title: Project Installation Antibody -->
 
@@ -15,7 +15,7 @@ If you're using [Antibody](https://github.com/getantibody/antibody), install thi
 1.  Add :
 
 ```{.sourceCode .bash}
-     antibody bundle hadenlabs/zsh-plugin-template
+antibody bundle hadenlabs/zsh-plugin-template
 ```
 
 to your `.zshrc` where you're adding your other plugins.

@@ -1,13 +1,3 @@
-<!-- Space: ZshPluginTemplate -->
-<!-- Parent: Project -->
-<!-- Title: Troubleshooting -->
-
-<!-- Label: ZshPluginTemplate -->
-<!-- Label: Project -->
-<!-- Label: Troubleshooting -->
-<!-- Include: docs/disclaimer.md -->
-<!-- Include: ac:toc -->
-
 # Troubleshooting
 
 ## Environment
