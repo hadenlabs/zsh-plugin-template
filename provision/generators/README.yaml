@@ -10,10 +10,6 @@ name: zsh-plugin-template
 email:
   support: support@hadenlabs.com
 
-confluence:
-  space: Projects
-  title: ZshPluginTemplate
-
 # Logo for this project
 #logo: docs/logo.png
 
