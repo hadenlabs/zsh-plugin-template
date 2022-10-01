@@ -1,7 +1,6 @@
 <!-- Space: Projects -->
 <!-- Parent: Project -->
-<!-- Title: Project Installation Antibody -->
-
+<!-- Title: Installation Antibody ZshPluginTemplate -->
 <!-- Label: ZshPluginTemplate -->
 <!-- Label: Project -->
 <!-- Label: Installation -->

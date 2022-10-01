@@ -1,7 +1,6 @@
 <!-- Space: Projects -->
 <!-- Parent: ZshPluginTemplate -->
 <!-- Title: Commands ZshPluginTemplate -->
-
 <!-- Label: ZshPluginTemplate -->
 <!-- Label: Project -->
 <!-- Label: Commands -->

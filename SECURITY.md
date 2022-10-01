@@ -1,7 +1,6 @@
 <!-- Space: Projects -->
 <!-- Parent: ZshPluginTemplate -->
 <!-- Title: Security ZshPluginTemplate -->
-
 <!-- Label: ZshPluginTemplate -->
 <!-- Label: Security -->
 <!-- Include: docs/disclaimer.md -->

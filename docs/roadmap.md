@@ -1,7 +1,6 @@
 <!-- Space: Projects -->
 <!-- Parent: ZshPluginTemplate -->
 <!-- Title: Roadmap ZshPluginTemplate -->
-
 <!-- Label: Roadmap -->
 <!-- Include: disclaimer.md -->
 <!-- Include: ac:toc -->
