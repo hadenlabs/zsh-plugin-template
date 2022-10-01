@@ -32,17 +32,15 @@ zsh-plugin-template for project
 This is a list of plugins that need to be installed previously to enjoy all the goodies of this configuration:
 
 - [zsh-core](https://github.com/hadenlabs/zsh-core)
-
-* [gomplate](https://github.com/hairyhenderson/gomplate)
-* [python](https://www.python.org)
-* [taskfile](https://github.com/go-task/task)
+- [gomplate](https://github.com/hairyhenderson/gomplate)
+- [python](https://www.python.org)
+- [taskfile](https://github.com/go-task/task)
 
 ## Installation
 
 <!-- Space: Projects -->
 <!-- Parent: Project -->
-<!-- Title: Project Installation Oh-My-Zsh -->
-
+<!-- Title: Installation Oh-My-Zsh ZshPluginTemplate -->
 <!-- Label: ZshPluginTemplate -->
 <!-- Label: Project -->
 <!-- Label: Installation -->
@@ -50,9 +48,9 @@ This is a list of plugins that need to be installed previously to enjoy all the 
 <!-- Include: docs/disclaimer.md -->
 <!-- Include: ac:toc -->
 
-### [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) users
+### [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh) users
 
-If you're using [oh-my-zsh](https://gitub.com/robbyrussell/oh-my-zsh), install this plugin by doing the following:
+If you're using [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh), install this plugin by doing the following:
 
 1.  Go to your oh-my-zsh custom plugins directory -`cd ~/.oh-my-zsh/custom/plugins`
 2.  Clone the plugin `bash git clone https://github.com/hadenlabs/zsh-plugin-template`bash
@@ -60,14 +58,13 @@ If you're using [oh-my-zsh](https://gitub.com/robbyrussell/oh-my-zsh), install t
 4.  Open a new terminal and enjoy!
     <!-- Space: Projects -->
     <!-- Parent: Project -->
-    <!-- Title: Project Installation Antigen -->
-
-<!-- Label: ZshPluginTemplate -->
-<!-- Label: Project -->
-<!-- Label: Installation -->
-<!-- Label: Antigen -->
-<!-- Include: docs/disclaimer.md -->
-<!-- Include: ac:toc -->
+    <!-- Title: Installation Antigen ZshPluginTemplate -->
+    <!-- Label: ZshPluginTemplate -->
+    <!-- Label: Project -->
+    <!-- Label: Installation -->
+    <!-- Label: Antigen -->
+    <!-- Include: docs/disclaimer.md -->
+    <!-- Include: ac:toc -->
 
 ### [antigen](https://github.com/zsh-users/antigen) users
 
@@ -78,13 +75,12 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), install this pl
 3.  Enjoy!
     <!-- Space: Projects -->
     <!-- Parent: Project -->
-    <!-- Title: Project Installation Antibody -->
-
-<!-- Label: ZshPluginTemplate -->
-<!-- Label: Project -->
-<!-- Label: Installation -->
-<!-- Include: docs/disclaimer.md -->
-<!-- Include: ac:toc -->
+    <!-- Title: Installation Antibody ZshPluginTemplate -->
+    <!-- Label: ZshPluginTemplate -->
+    <!-- Label: Project -->
+    <!-- Label: Installation -->
+    <!-- Include: docs/disclaimer.md -->
+    <!-- Include: ac:toc -->
 
 ### [antibody](https://github.com/getantibody/antibody) users
 
@@ -105,12 +101,15 @@ to your `.zshrc` where you're adding your other plugins.
 
 # How to use this project
 
+```bash
+task setup
+```
+
 ## Examples
 
 <!-- Space: Projects -->
 <!-- Parent: ZshPluginTemplate -->
 <!-- Title: Examples ZshPluginTemplate -->
-
 <!-- Label: Examples -->
 <!-- Include: ./../disclaimer.md -->
 <!-- Include: ac:toc -->
@@ -120,7 +119,6 @@ to your `.zshrc` where you're adding your other plugins.
  <!-- Space: Projects -->
 <!-- Parent: Project -->
 <!-- Title: Functions -->
-
 <!-- Label: Functions -->
 <!-- Include: docs/disclaimer.md -->
 <!-- Include: ac:toc -->

@@ -1,7 +1,6 @@
 <!-- Space: Projects -->
 <!-- Parent: ZshPluginTemplate -->
 <!-- Title: Releasing ZshPluginTemplate -->
-
 <!-- Label: ZshPluginTemplate -->
 <!-- Label: Project -->
 <!-- Label: Releasing -->

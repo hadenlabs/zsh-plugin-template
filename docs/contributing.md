@@ -1,7 +1,6 @@
 <!-- Space: Projects -->
 <!-- Parent: ZshPluginTemplate -->
 <!-- Title: Contributing ZshPluginTemplate -->
-
 <!-- Label: ZshPluginTemplate -->
 <!-- Label: Contributing -->
 <!-- Include: disclaimer.md -->
