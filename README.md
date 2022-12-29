@@ -39,7 +39,7 @@ This is a list of plugins that need to be installed previously to enjoy all the 
 ## Installation
 
 <!-- Space: Projects -->
-<!-- Parent: Project -->
+<!-- Parent: ZshPluginTemplate -->
 <!-- Title: Installation Oh-My-Zsh ZshPluginTemplate -->
 <!-- Label: ZshPluginTemplate -->
 <!-- Label: Project -->
@@ -57,7 +57,7 @@ If you're using [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh), install this pl
 3.  Edit your `.zshrc` and add `plugins=( ... zsh-plugin-template )` to your list of plugins
 4.  Open a new terminal and enjoy!
     <!-- Space: Projects -->
-    <!-- Parent: Project -->
+    <!-- Parent: ZshPluginTemplate -->
     <!-- Title: Installation Antigen ZshPluginTemplate -->
     <!-- Label: ZshPluginTemplate -->
     <!-- Label: Project -->
@@ -74,7 +74,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), install this pl
 2.  Either open a new terminal to force zsh to load the new plugin, or run `antigen bundle hadenlabs/zsh-plugin-template` in a running zsh session.
 3.  Enjoy!
     <!-- Space: Projects -->
-    <!-- Parent: Project -->
+    <!-- Parent: ZshPluginTemplate -->
     <!-- Title: Installation Antibody ZshPluginTemplate -->
     <!-- Label: ZshPluginTemplate -->
     <!-- Label: Project -->
@@ -114,11 +114,11 @@ task setup
 <!-- Include: ./../disclaimer.md -->
 <!-- Include: ac:toc -->
 
-### common
+### Common
 
  <!-- Space: Projects -->
-<!-- Parent: Project -->
-<!-- Title: Functions -->
+<!-- Parent: ZshPluginTemplate -->
+<!-- Title: Functions ZshPluginTemplate -->
 <!-- Label: Functions -->
 <!-- Include: docs/disclaimer.md -->
 <!-- Include: ac:toc -->
