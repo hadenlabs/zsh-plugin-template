@@ -1,5 +1,5 @@
 <!-- Space: Projects -->
-<!-- Parent: Project -->
+<!-- Parent: ZshPluginTemplate -->
 <!-- Title: Installation Antigen ZshPluginTemplate -->
 <!-- Label: ZshPluginTemplate -->
 <!-- Label: Project -->
