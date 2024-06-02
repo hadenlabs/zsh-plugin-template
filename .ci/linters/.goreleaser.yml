@@ -3,7 +3,7 @@
 project_name: zsh-plugin-name
 env:
   - GO111MODULE=on
-  - REPO=github.com/hadenlabs/zsh-plugin-name
+  - REPO=github.com/hadenlabs/zsh-plugin-template
 before:
   hooks:
     - go mod download

@@ -5,7 +5,7 @@ description = "zsh plugin name"
 authors = ["Luis Mayta <luis@hadenlabs.com>"]
 license = "LGPL-3.0"
 readme = "README.md"
-repository = "https://github.com/hadenlabs/zsh-plugin-name"
+repository = "https://github.com/hadenlabs/zsh-plugin-template"
 
 [tool.poetry.dependencies]
 python = "^3.8,<3.12"
