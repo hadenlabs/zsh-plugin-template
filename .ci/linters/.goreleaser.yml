@@ -1,6 +1,6 @@
 # This is an example goreleaser.yaml file with some sane defaults.
 # Make sure to check the documentation at http://goreleaser.com
-project_name: zsh-plugin-name
+project_name: zsh-plugin-template
 env:
   - GO111MODULE=on
   - REPO=github.com/hadenlabs/zsh-plugin-template
@@ -64,10 +64,11 @@ changelog:
     exclude:
       - "^docs:"
       - "^test:"
+
 release:
   github:
     owner: hadenlabs
-    name: zsh-plugin-name
+    name: zsh-plugin-template
   draft: true
   prerelease: auto
   name_template: "{{.ProjectName}}-v{{.Version}}-{{.ShortCommit}}-{{.Date}}"
