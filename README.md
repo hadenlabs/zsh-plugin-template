@@ -31,7 +31,7 @@ zsh-plugin-template for project
 
 This is a list of plugins that need to be installed previously to enjoy all the goodies of this configuration:
 
-- [zsh-plugin-name](https://github.com/hadenlabs/zsh-plugin-template)
+- [zsh-core](https://github.com/hadenlabs/zsh-core)
 - [gomplate](https://github.com/hairyhenderson/gomplate)
 - [python](https://www.python.org)
 - [taskfile](https://github.com/go-task/task)
@@ -114,7 +114,13 @@ task setup
 <!-- Include: ./../disclaimer.md -->
 <!-- Include: ac:toc -->
 
-### Common
+## Common
+
+### Install Dependencies
+
+```bash
+task setup
+```
 
  <!-- Space: Projects -->
 <!-- Parent: ZshPluginTemplate -->
@@ -152,7 +158,7 @@ Using the given version number of `MAJOR.MINOR.PATCH`, we apply the following co
 
 ## Copyright
 
-Copyright © 2018-2024 [Hadenlabs](https://hadenlabs.com)
+Copyright © 2018-2025 [Hadenlabs](https://hadenlabs.com)
 
 ## Trademarks
 
